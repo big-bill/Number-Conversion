@@ -1,5 +1,5 @@
 # Number-Conversion
-project 2 for COP 2228
+### Project 2 for COP 2228
 
 This program is a check writing simulation. The user will enter their name, a date (was unsure
 if the date was suppose to be current, so I just set the minimum year to be 1950 and the max to
